@@ -1,0 +1,1 @@
+SELECT * FROM edz_operations_db.view_neighborhood_profitability;
