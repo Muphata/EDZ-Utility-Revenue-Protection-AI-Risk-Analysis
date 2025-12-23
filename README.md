@@ -25,3 +25,6 @@ SQL_Scripts/: Queries for data cleaning and distance-based risk categorization.
 Python/: Script for database connection and data formatting.
 
 EDZ_Dashboard.pbix: The final interactive report.
+
+https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page1.png?raw=true
+
