@@ -28,17 +28,20 @@ EDZ_Dashboard.pbix: The final interactive report.
 
 ## 📊 Dashboard Preview
 
-### 1. Revenue at Risk & AI Discovery
-This page uses the **Decomposition Tree** to pinpoint $10.11K in high-risk debt and identifies the specific neighborhoods and connection types requiring immediate collection.
+### 1. Executive Financial Overview
+The high-level summary of EDZ’s financial health for January 2025. This page provides a "pulse check" on total revenue, expenses, and collection rates, allowing leadership to see performance at a glance.
 
-![AI Risk Analysis](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page3.png?raw=true)
+![Executive Overview](images/page1.png)
 
-### 2. Operational Audit & Geospatial Logic
-Using SQL-driven geospatial audits, this view highlights reading inaccuracies where staff recorded data from over 3,000 meters away.
+### 2. Operational Audit & Geospatial Validation
+This page uses SQL-driven audits to pinpoint "High Risk" meter readings. By analyzing the physical distance between the staff and the meter, we identified instances of data being recorded from over 3,000 meters away, highlighting significant operational leakage.
 
-![Operational Audit](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page2.png?raw=true)
+![Operational Audit](images/page2.png)
 
-![Financial Performance](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page1.png?raw=true)
+### 3. AI-Driven Risk Discovery
+The final stage of the analysis uses a **Decomposition Tree** and **KPI Cards** to isolate $10.11K in at-risk revenue. It reveals that **Commercial** connections in **Saadnayel** are the primary drivers of unpaid debt, providing a "Priority Action List" for the collections team.
+
+![AI Risk Analysis](images/page3.png)
 
 
 
