@@ -28,4 +28,5 @@ EDZ_Dashboard.pbix: The final interactive report.
 
 https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page1.png?raw=true
 https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page2.png?raw=true
+https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page3.png?raw=true
 
