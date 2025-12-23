@@ -26,7 +26,21 @@ Python/: Script for database connection and data formatting.
 
 EDZ_Dashboard.pbix: The final interactive report.
 
-https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page1.png?raw=true
-https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page2.png?raw=true
-https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page3.png?raw=true
+## 📊 Dashboard Preview
+
+### 1. Revenue at Risk & AI Discovery
+This page uses the **Decomposition Tree** to pinpoint $10.11K in high-risk debt and identifies the specific neighborhoods and connection types requiring immediate collection.
+
+![AI Risk Analysis](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page3.png?raw=true)
+
+### 2. Operational Audit & Geospatial Logic
+Using SQL-driven geospatial audits, this view highlights reading inaccuracies where staff recorded data from over 3,000 meters away.
+
+![Operational Audit](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page2.png?raw=true)
+
+![Financial Performance](https://github.com/Muphata/EDZ-Utility-Revenue-Protection-AI-Risk-Analysis/blob/main/page1.png?raw=true)
+
+
+
+
 
